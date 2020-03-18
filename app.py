@@ -7,4 +7,4 @@ def show_post(name):
     return 'the value is ' + name
 
 if __name__=="__main__":
-     app.run(host='localhost', debug=True)
+     app.run()
